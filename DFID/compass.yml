@@ -1,1 +1,15 @@
-
+name: DFID
+id: 'ari:cloud:compass:a55834ae-536b-4c00-a641-c375247ce72e:component/e8249c95-7002-4d33-9b32-f480f1bfe5d2/3a96b9cb-2a2b-4fd5-b91c-7e9b53968172'
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: 'ari:cloud:teams::team/0675a912-d9f2-476a-afc0-b528c8d3fb97'
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/ceridianorg/compass/tree/main/DFID'
+relationships: {}
+labels: null
+customFields: null
