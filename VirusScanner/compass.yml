@@ -1,1 +1,15 @@
-
+name: Virus Scanner
+id: 'ari:cloud:compass:a55834ae-536b-4c00-a641-c375247ce72e:component/e8249c95-7002-4d33-9b32-f480f1bfe5d2/6fe7019a-00bf-405d-8322-d1127646ecad'
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/ceridianorg/compass/edit/main/VirusScanner/'
+relationships: {}
+labels: null
+customFields: null
