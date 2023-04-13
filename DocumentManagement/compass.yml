@@ -1,6 +1,6 @@
 name: Document Management
 id: 'ari:cloud:compass:a55834ae-536b-4c00-a641-c375247ce72e:component/e8249c95-7002-4d33-9b32-f480f1bfe5d2/452a3f3d-5e98-4c59-b874-8bd40594e05c'
-description: null
+description: Service to store documents like PDFs
 configVersion: 1
 typeId: SERVICE
 ownerId: 'ari:cloud:teams::team/186116f2-20d9-48bc-8041-a7f703606084'
@@ -11,6 +11,8 @@ links:
   - name: null
     type: REPOSITORY
     url: 'https://github.com/ceridianorg/compass/tree/main/DocumentManagement'
-relationships: {}
+relationships: 
+  DEPENDS_ON:
+    - 'DFID'
 labels: null
 customFields: null
