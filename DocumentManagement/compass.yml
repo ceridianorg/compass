@@ -12,7 +12,7 @@ links:
     type: REPOSITORY
     url: 'https://github.com/ceridianorg/compass/tree/main/DocumentManagement'
   - name: null
-    type: SWAGGER
+    type: OTHER_LINK
     url: 'https://github.com/ceridianorg/compass/edit/main/DocumentManagement/swagger.json'
 relationships: 
   DEPENDS_ON:
