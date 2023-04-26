@@ -17,6 +17,9 @@ links:
   - name: Runbooks
     type: DOCUMENT
     url: 'https://ceridian.atlassian.net/wiki/spaces/AR/pages/155742034/Document+Management+Microservice+-+Discussion'
+  - name: Service dashboard
+    type: DASHBOARD
+    url: 'https://www.example.com/dashboards/service-dashboard'
 relationships: 
   DEPENDS_ON:
     - 'ari:cloud:compass:a55834ae-536b-4c00-a641-c375247ce72e:component/e8249c95-7002-4d33-9b32-f480f1bfe5d2/3a96b9cb-2a2b-4fd5-b91c-7e9b53968172'
