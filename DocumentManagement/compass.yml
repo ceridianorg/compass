@@ -27,5 +27,5 @@ relationships:
 labels:
   - "database:sqlserver"
   - "language:c#"
-  - "orm:EF"
+  - "orm:entityframework"
 customFields: null
