@@ -25,7 +25,7 @@ relationships:
     - 'ari:cloud:compass:a55834ae-536b-4c00-a641-c375247ce72e:component/e8249c95-7002-4d33-9b32-f480f1bfe5d2/3a96b9cb-2a2b-4fd5-b91c-7e9b53968172'
     - 'ari:cloud:compass:a55834ae-536b-4c00-a641-c375247ce72e:component/e8249c95-7002-4d33-9b32-f480f1bfe5d2/6fe7019a-00bf-405d-8322-d1127646ecad'
 labels:
-  - language:'C#'
-  - database:'SQL Server'
+  - language: 'C#'
+  - database: 'SQL Server'
   - ORM: 'Entity Framework'
 customFields: null
